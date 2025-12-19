@@ -14,7 +14,7 @@ class InteractiveBB84Generator:
     def __init__(self):
         self.clear_screen()
         print("🎭" * 50)
-        print("      INTERACTIVE BB84 QUANTUM KEY GENERATOR")
+        print("      BB84 QUANTUM KEY GENERATION SIMULATOR      ")
         print("🎭" * 50)
         print("\n🎯 Perfect for live demonstrations!")
         print("   You'll play both Alice and Bob to generate a shared secret key.")
