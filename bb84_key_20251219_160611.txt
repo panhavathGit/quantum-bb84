@@ -1,0 +1,15 @@
+============================================================
+BB84 Quantum Key Generation Results
+============================================================
+
+Generated: Fri Dec 19 16:06:11 2025
+Qubits sent: 20
+Matching bases: 9
+Error rate: 0.0%
+Eavesdropper simulated: NO
+Security status: SECURE
+
+FINAL KEY (hex):
+============================================================
+9ebdc8b8d9c29869381ea2182b46ffd629555e1f8c2278903e40964e3247242d
+============================================================
