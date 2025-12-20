@@ -1,0 +1,21 @@
+{
+  "alice_bits": [],
+  "alice_bases": [],
+  "alice_message": "Hello Bob! Ready for quantum key exchange?",
+  "alice_selected_partner": "bob",
+  "bob_bases": [],
+  "bob_results": [],
+  "bob_message": "",
+  "huot_bases": [],
+  "huot_results": [],
+  "huot_message": "",
+  "phase": "waiting_bob_response",
+  "sifted_bits": [],
+  "matching_indices": [],
+  "error_rate": 0.0,
+  "final_key": "",
+  "eve_present": false,
+  "alice_ready": true,
+  "bob_ready": false,
+  "huot_ready": false
+}
